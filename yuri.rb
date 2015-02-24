@@ -1,9 +1,4 @@
-class Yuri
-  def initialize(args)
+require_relative './app/yuri'
 
-  end
-  
-  
-end
-
+# ARGV.push('-h') if ARGV.empty?
 yuri = Yuri.new(ARGV)

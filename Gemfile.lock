@@ -60,3 +60,4 @@ DEPENDENCIES
   aws-sdk-core (~> 2.0.14)
   guard
   guard-shell
+  slop
