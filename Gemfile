@@ -4,5 +4,5 @@ group :development do
   gem 'guard-shell'
 end
 
-gem 'slop'
+gem 'slop', '~> 4.0'
 gem 'aws-sdk-core', '~> 2.0.14'
